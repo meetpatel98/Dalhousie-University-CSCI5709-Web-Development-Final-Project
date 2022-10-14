@@ -1,0 +1,64 @@
+.cerate-review-product h1{
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: darkslategray;
+}
+
+.product-heading h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight:bolder;
+
+}
+
+.star-rating p{
+    font-size: 20px;
+    font-weight:600;
+}
+
+
+.empty-icons {
+    margin-bottom: 30px;
+}
+
+.add-heading h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight:600;
+}
+
+.add-review h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight:600;
+}
+
+.react-simple-star-rating{
+    margin-bottom: -10%;
+}
+
+
+.submit-button .btn{
+    background-color: #979AA1;
+    color: white;
+}
+
+.submit-button .btn:hover{
+    background-color: #6c757d;
+    color: white;
+}
+
+
+
+
+.input {
+    width: 80%;
+}
+
+.input {
+    font-size: 20px;
+}

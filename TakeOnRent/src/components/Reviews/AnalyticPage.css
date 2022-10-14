@@ -1,0 +1,11 @@
+.analytic-heading h1{
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: darkslategray;
+}
+
+.analytic-1{
+    width: 70%;
+    margin: 0 auto 0 auto;
+}

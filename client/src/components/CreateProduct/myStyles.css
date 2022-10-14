@@ -1,0 +1,73 @@
+.primary{
+   color: red;
+}
+
+.font-xl{
+   font-size: 72px;
+}
+
+.container{
+  display: flex;
+}
+
+.header{
+   color: black;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main .left {
+   float:left;
+   width: 49%;
+}
+
+.main .right {
+   float: right;
+   width: 49%;
+}
+
+.background{
+ background: whitesmoke;
+}
+
+/* .card1{
+  /* width: 20vw; */
+  /* align-items: center;
+  text-align: center; */
+  /* height: 65vw;
+  padding: 1.8%;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border-radius: 10px; */
+/* } */
+*/
+.buttonHover:hover{
+  background-color: #6c757d;
+}
+/* .uploadImage{
+  padding: 1.5%;
+  width: 40%;
+  height: 120px;
+} */
+
+/* .description{
+  position: absolute;
+  width: 250px;
+  left: 33px;
+  height: 100px;
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-left: 100px; 
+} */
+
+
+.title-color{
+ Color: "#979AA1",
+}
+

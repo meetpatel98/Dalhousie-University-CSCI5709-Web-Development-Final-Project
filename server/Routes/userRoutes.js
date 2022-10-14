@@ -1,0 +1,25 @@
+/**
+ *   @author : Vivekkumar Patel (B00874162)
+ *   @description : routes to map application http request.
+ */
+
+
+const express=require("express");
+
+const authenticateUser=require("../Middleware/authenticate.js");
+const userController=require("../Controller/userController.js");
+
+const userRouter = express.Router();
+
+//HTTP post request to register user map to registerUser function.
+userRouter.post('/registerUser', userController.registerUser);
+userRouter.post('/verifyAccount', userController.verifyUserAccount);
+userRouter.post('/isUserRegistered', userController.checkUserRegistered);
+userRouter.post('/signin', userController.signin);
+userRouter.post('/getDataByUserId', authenticateUser,userController.getDataByUserId);
+userRouter.post('/updateProfileDetails', authenticateUser,userController.updateProfileDetails);
+userRouter.post('/sendResetPasswordLink', userController.sendResetPasswordLink);
+userRouter.post('/resetPassword', userController.resetPassword);
+userRouter.post('/signOut', userController.signout);
+
+module.exports=userRouter;

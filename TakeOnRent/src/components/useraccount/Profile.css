@@ -1,0 +1,27 @@
+.form-container {
+    margin: 5% auto;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 2.5rem;
+    border-radius: 1rem;
+    box-shadow: rgb(0 0 0 / 24%) 0px -3px 8px;
+    width: 85%;
+}
+
+.custom-button-color{
+    background-color: #979AA1;
+}
+
+.card{
+background-clip: unset;
+border: none !important;
+}
+
+.edit-button{
+    margin-top: 4%;
+}
+
+.image-size{
+    width: 50%;
+}
