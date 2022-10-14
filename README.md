@@ -1,5 +1,5 @@
 <!--- The following README.md sample file was adapted from brightspace provided by Gabriella Mosquera for academic use ---> 
-# Group 19 - TakeOnRent Project Proposal
+# TakeOnRent Project Proposal
 
 This will act as group 19's project proposal. The application TakeOnRent would allow the users to conveniently navigate and find the product that would be required for a specific interval of time without buying the product.
 
@@ -7,15 +7,6 @@ This will act as group 19's project proposal. The application TakeOnRent would a
 * *Last Modification Date*: 16 06 2022
 * *Git URL*: https://git.cs.dal.ca/rspatel/csci_5709_project_group_19
 * *App deployed on Netlify URL*: https://takeonrent.netlify.app/
-
-## Authors
-
-* [Rushi Patel](rs397441@dal.ca)
-* [Vivekkumar Patel](vv662564@dal.ca)
-* [Meet Patel](mt631537@dal.ca)
-* [Paras Patel](pr777796@dal.ca)
-* [Tirth Patel](tr326604@dal.ca)
-* [Rutvik Patel](rt994397@dal.ca)
 
 ## Getting Started
 
